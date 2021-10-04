@@ -1,5 +1,6 @@
 # croftcheck.com
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d4b9e20-f3b2-4b76-b117-7fe19c08eb63/deploy-status)](https://app.netlify.com/sites/serene-lalande-17ba1f/deploys)
 ## gatsby-starter-dimension
 
 **This is a starter for Gatsby.js V2.**
