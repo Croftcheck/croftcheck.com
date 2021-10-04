@@ -8,7 +8,7 @@ class Main extends React.Component {
   render() {
     let close = (
       <button
-        className="util-unbutton close"
+        className="close-button"
         onClick={() => {
           this.props.onCloseArticle()
         }}

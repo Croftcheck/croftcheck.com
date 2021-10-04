@@ -1,36 +1,20 @@
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/skel';
+// Vendor
 @import '../css/font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600');
 
-/*
-	Original design is Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+// Tools
+@import 'libs/vars';
+@import 'libs/vendor-functions';
+@import 'libs/vendor-mixins';
+@import 'libs/skel';
+@import 'libs/mixins';
 
-	@include skel-breakpoints((
-		xlarge:		'(max-width: 1680px)',
-		large:		'(max-width: 1280px)',
-		medium:		'(max-width: 980px)',
-		small:		'(max-width: 736px)',
-		xsmall:		'(max-width: 480px)',
-		xxsmall:	'(max-width: 360px)'
-	));
-
-	@include skel-layout((
-		reset: 'full',
-		boxModel: 'border'
-	));
-
-// Base.
+// Generic
 
 	@import 'base/page';
 	@import 'base/typography';
 
-// Component.
+// Components
 
 	@import 'components/form';
 	@import 'components/box';
@@ -39,11 +23,22 @@
 	@import 'components/list';
 	@import 'components/table';
 	@import 'components/button';
+  @import 'components/close-button';
 
-// Layout.
+// Layout
 
 	@import 'layout/bg';
 	@import 'layout/wrapper';
 	@import 'layout/header';
 	@import 'layout/main';
 	@import 'layout/footer';
+
+// Trumps
+  @import 'trumps/utils';
+
+/*
+	Original design is Dimension by HTML5 UP
+	html5up.net | @ajlkn
+
+  Modified for use on this site
+*/
