@@ -7,12 +7,12 @@ import pic03 from '../images/pic03.jpg'
 class Main extends React.Component {
   render() {
     let close = (
-      <div
-        className="close"
+      <button
+        className="util-unbutton close"
         onClick={() => {
           this.props.onCloseArticle()
         }}
-      ></div>
+      ><span className="util-visually-hidden">Close</span></button>
     )
 
     return (

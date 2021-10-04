@@ -1,0 +1,57 @@
+.util-visually-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+
+  &:focus {
+    left: 0;
+    right: auto;
+    top: 0;
+    bottom: auto;
+    clip: auto;
+    clip-path: none;
+  }
+}
+
+.util-unbutton {
+  border: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  overflow: visible;
+
+  background: transparent;
+
+  // inherit font & color from ancestor
+  color: inherit;
+  font: inherit;
+
+  // Normalize line-height. Cannot be changed from normal in Firefox 4+.
+  line-height: normal;
+
+  // Corrects font smoothing for webkit
+  -webkit-font-smoothing: inherit;
+  -moz-osx-font-smoothing: inherit;
+
+  // Corrects inability to style clickable input types in iOS
+  -webkit-appearance: none;
+}
+
+.util-delist {
+  // For ul, ol elements
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  list-style-type: none;
+}
+
+.util-smooth-font {
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
