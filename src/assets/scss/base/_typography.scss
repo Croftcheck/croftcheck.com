@@ -1,24 +1,18 @@
-///
-/// Dimension by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
-
 /* Type */
 
 	html {
-		font-size: 16pt;
+		font-size: 22px;
 
 		@include breakpoint(xlarge) {
-			font-size: 12pt;
+			font-size: 16px;
 		}
 
 		@include breakpoint(small) {
-			font-size: 11pt;
+			font-size: 15px;
 		}
 
 		@include breakpoint(xxsmall) {
-			font-size: 10pt;
+			font-size: 13px;
 		}
 	}
 
@@ -36,6 +30,7 @@
 			'background-color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
+    @include safe-focus;
 		border-bottom: dotted 1px _palette(fg-light);
 		text-decoration: none;
 		color: inherit;
