@@ -66,6 +66,7 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
+          <p className="image-caption">Dayton, Ohio via <a href="https://unsplash.com/@bowmanmc">M. Bowman</a></p>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
             at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
