@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Andrew Croftcheck, Project Manager',
     author: 'Andrew Croftcheck',
-    description: 'Andrew is a Project Manager, C.S.M., and M.B.A.',
+    description: 'Andrew is a Project Manager, PSM I, and M.B.A.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
