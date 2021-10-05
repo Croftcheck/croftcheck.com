@@ -1,5 +1,4 @@
-import React, { useEffect } from 'react'
-import { safeFocusInit } from '@sparkbox/safe-focus';
+import React from 'react'
 
 import Layout from '../components/layout'
 import Header from '../components/Header'
@@ -27,10 +26,6 @@ class IndexPage extends React.Component {
         this.setState({loading: ''});
     }, 100);
     document.addEventListener('mousedown', this.handleClickOutside);
-
-    useEffect(() => {
-      safeFocusInit();
-    }, []);
   }
 
   componentWillUnmount () {
