@@ -33,24 +33,16 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            I graduated from Miami University's University Honors Program with a double-major in English and Psychology for undergrad, and then graduated from the University of Dayton with my Masters of Business Administration. I am a storyteller at heart. I became an English major because of the way that it ties stories to life. If it has been experienced, chances are it has been written about. Stories are how we connect to other people. We tell each other stories about what happened, how it made us feel, why we acted the way we did. Marketing and sales are telling the story of a product. Human resources is the interweaving of the company's story and those of its current and future employees. Management is listening to stories, adapting plans accordingly, and retelling those stories where needed. There is no part of life that is not, at its core, storytelling. 
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            Storytelling is an art. In order to be successful, the stories one tells must be memorable. A story should strike the audience, grab them and not let go. It is a means of connecting with people, recognizing that they are indeed people and not just consumers or data points. What is business, if not interacting with people? A storyteller is someone able to interact at any level--from the executive to the cleaning crew to the end-user. It's a matter of knowing and understanding the audience, of connecting with them and having a dialogue. With that skill, a project manager doesn't need the technical knowledge, because they understand the people they're working with and what the SMEs are saying. A good project manager can track and guide and lead a project from start to finish, navigating through the inevitable issues and risks with a level head, a solid team, and a mitigation plan. For the project manager, it isn't about them; it's about the project, the end result, the team, and the end-users. The stakeholders are the audience, and the project manager needs to tell them the project's story.
+          </p>
+          <p>
+            A story is not static, and a storyteller cannot be either. I taught myself to use Microsoft Project well enough that I trained others in the Institute on how to use it and how to make it show the important parts of the story--the critical path, if you will. As I teach myself HTML, I also garner new methods of finding and presenting information. New stories are growing everyday, alongside new methods to tell them. Technology is evolving, and so too are our stories. Let me help you tell yours.
+          </p>
+          <p>
+          I am a storyteller.
           </p>
           {close}
         </article>
