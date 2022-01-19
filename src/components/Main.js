@@ -52,7 +52,7 @@ class Main extends React.Component {
           </p>
           <p>
             A story is not static, and a storyteller cannot be either. I taught myself to use Microsoft Project well enough that I was sought out to train others in
-            the Institute on how to use it. Not all projects are the traditional waterfall style, and so I became a Professional Scrum Master I as well.
+            the Institute on how to use it. Not all projects are the traditional waterfall style, and so I became a Professional Scrum Master I as well. I then followed up the PSM certification by obtaining my PMP.
             There are always new methods of finding and presenting information to find and adapt. Technology is evolving, and so too are our stories.
             Let me help you bring your story to life.
           </p>
@@ -75,7 +75,7 @@ class Main extends React.Component {
           </span>
           <p className="image-caption">Dayton, Ohio via <a href="https://unsplash.com/@bowmanmc">M. Bowman</a></p>
           <p>
-            I'm currently a project manager with approximately 10 years of PM experience, 7 of which have been with the Department of Defense (DoD). I am formally trained in both waterfall and Agile styles, focusing on achieving customer goals with multifunctional teams. <a href="mailto:Andrew.croftcheck@gmail.com?Subject=From%20your%20website">Send me a message</a> if you'd like to know more.
+            I'm currently a project manager with approximately 8 years of PM experience, 6 of which have been with the Department of Defense (DoD). I am formally trained in both waterfall and Agile styles, focusing on achieving customer goals with multifunctional teams. <a href="mailto:Andrew.croftcheck@gmail.com?Subject=From%20your%20website">Send me a message</a> if you'd like to know more.
           </p>
           {close}
         </article>
