@@ -75,7 +75,7 @@ class Main extends React.Component {
           </span>
           <p className="image-caption">Dayton, Ohio via <a href="https://unsplash.com/@bowmanmc">M. Bowman</a></p>
           <p>
-            I'm currently a project manager with approximately 8 years of PM experience, 6 of which have been with the Department of Defense (DoD). I am formally trained in both waterfall and Agile styles, focusing on achieving customer goals with multifunctional teams. <a href="mailto:Andrew.croftcheck@gmail.com?Subject=From%20your%20website">Send me a message</a> if you'd like to know more.
+          I'm currently a project manager with approximately 8 years of PM experience, 6 of which have been with the Department of Defense (DoD). I am formally trained in both waterfall and Agile styles, focusing on achieving customer goals with multifunctional teams. I am also a Project Management Professional (PMP), Professional Scrum Master (PSM I), and have an MBA. <a href="mailto:Andrew.croftcheck@gmail.com?Subject=From%20your%20website">Send me a message</a> if you'd like to know more.
           </p>
           {close}
         </article>
