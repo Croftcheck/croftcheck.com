@@ -75,7 +75,7 @@ class Main extends React.Component {
           </span>
           <p className="image-caption">Dayton, Ohio via <a href="https://unsplash.com/@bowmanmc">M. Bowman</a></p>
           <p>
-          I'm currently a project manager with approximately 8 years of PM experience, 6 of which have been with the Department of Defense (DoD). I am formally trained in both waterfall and Agile styles, focusing on achieving customer goals with multifunctional teams. I am also a Project Management Professional (PMP), Professional Scrum Master (PSM I), and have an MBA. <a href="mailto:Andrew.croftcheck@gmail.com?Subject=From%20your%20website">Send me a message</a> if you'd like to know more.
+          I'm currently a project manager with approximately 10 years of PM experience, 8 of which have been with the Federal Government. I am formally trained in both waterfall and Agile styles, focusing on achieving customer goals with multifunctional teams. I am also a Project Management Professional (PMP), Professional Scrum Master (PSM I), and have an MBA. <a href="mailto:Andrew.croftcheck@gmail.com?Subject=From%20your%20website">Send me a message</a> if you'd like to know more.
           </p>
           {close}
         </article>
@@ -92,8 +92,8 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            I'm Andrew Croftcheck, a Project Manager. I live in Dayton, OH with my partner and our two cats.
-            In my spare time I enjoy playing video games and board games, reading, playing tabletop RPGs, and helping out at 4 Paws for Ability.
+            I'm Andrew Croftcheck, a Project Manager. I live in Dayton, OH with my two cats.
+            In my spare time I enjoy playing video games and board games, reading, playing tabletop RPGs, and have recently taken up baking.
             I did my undergrad at Miami, double-majoring in English and Psychology, and then picked up an MBA from the University of Dayton later on.
           </p>
           {close}
@@ -114,11 +114,6 @@ class Main extends React.Component {
                 className="icon fa-linkedin"
               >
                 <span className="label">LinkedIn</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/mindflare77" className="icon fa-twitter">
-                <span className="label">Twitter</span>
               </a>
             </li>
             <li>
